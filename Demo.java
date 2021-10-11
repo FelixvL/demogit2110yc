@@ -10,7 +10,8 @@ public class Demo {
 		Spel s2 = new Spel();
 		System.out.println(s.getal);
 		System.out.println(s2.getal);
-		Spel.getal = 24;		
+		Spel.getal = 24;
+		System.out.println("Het programma is afgelopen");
 	}
 	void herewego() {
 		System.out.println("here we go");
