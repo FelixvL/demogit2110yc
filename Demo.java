@@ -11,7 +11,7 @@ public class Demo {
 		System.out.println(s.getal);
 		System.out.println(s2.getal);
 		Spel.getal = 24;
-		System.out.println("Het programma is afgelopen");
+		System.out.println("Het programma is afgelopen!");
 	}
 	void herewego() {
 		System.out.println("here we go");
